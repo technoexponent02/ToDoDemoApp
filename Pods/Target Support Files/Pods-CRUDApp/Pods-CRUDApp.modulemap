@@ -1,0 +1,6 @@
+framework module Pods_CRUDApp {
+  umbrella header "Pods-CRUDApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>845713032222-p9kr0fjdo2p2e3v3d0hun9t8j97cj4dk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.845713032222-p9kr0fjdo2p2e3v3d0hun9t8j97cj4dk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCJyo_j4j5ZZ9p62h5rlHfLZQPlPepoRhI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>845713032222</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.technoexponent.pandocar</string>
+	<key>PROJECT_ID</key>
+	<string>crudapplication-6f163</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crudapplication-6f163.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:845713032222:ios:699d7b983d2b45cb</string>
+	<key>DATABASE_URL</key>
+	<string>https://crudapplication-6f163.firebaseio.com</string>
+</dict>
+</plist>
